@@ -30,18 +30,6 @@ Relese info soon! 🔥
 
 <br><br><br><br>
 
-## Uplift Arpeggio
-
-<a href="https://github.com/dfilaretti/uplift-arpeggio"><img src="assets/img/uplift-arpeggio.png" align="right" width="500"/></a>
-
-<em>Author<br>2020-Present</em>
-
-A Max4Live device I built for helping me quickly come up with lead 
-patterns when writing trance. It started as a 2020 lockdown project 
-but it's still receiving updates! 
-
-<br><br>
-
 # 🌱 Learning
 
 ## Rust
@@ -99,6 +87,18 @@ During my tenure there I helped develop and maintain the software powering Solid
 
 <br>
 
+## Uplift Arpeggio
+
+<a href="https://github.com/dfilaretti/uplift-arpeggio"><img src="assets/img/uplift-arpeggio.png" align="right" width="500"/></a>
+
+<em>Author<br>2020-Present</em>
+
+A Max4Live device I built for helping me quickly come up with lead 
+patterns when writing trance. It started as a 2020 lockdown project 
+but it's still receiving updates! 
+
+<br><br>
+
 ## Free plugins bundle
 
 <a href="https://github.com/dfilaretti/WeirdDrums"><img src="assets/img/wd-1.png" align="right" width="200"/></a>
@@ -129,6 +129,36 @@ programming language!
 
 <br><br><br>
 
+## K-Framework (Haskell backend)
+
+<a href="https://github.com/runtimeverification/haskell-backend"><img src="assets/img/k-logo-dark.png" align="right" width="200"/></a>
+
+<em>Developer<br>2018</em>
+
+According to its [official docs](https://kframework.org/index.html), 
+
+<em>"K is a rewrite-based executable semantic framework in which programming languages, 
+type systems and formal analysis tools can be defined using configurations and rules"</em>
+
+I loved using K as the foundational framework for my [research work](https://www.doc.ic.ac.uk/~maffeis/phpsemantics/) as a PhD student,  
+and I was privileged, a couple of years later, to be able to contribute 
+back to its community (as well as practicing some [Haskell](https://www.haskell.org/)!)
+
+<br><br>
+
+## Solidity to IELE compiler
+
+<a href="https://github.com/runtimeverification/haskell-backend"><img src="assets/img/iele-2.png" align="right" width="200"/></a>
+
+<p><em>Developer<br>2018</em></p>
+
+[IELE](https://runtimeverification.com/the-iele-virtual-machine) is an improvement on the [Ethereum blockchain virtual machine](https://ethereum.org/en/developers/docs/evm/).
+ It was created after the [KEVM](https://github.com/runtimeverification/evm-semantics) project demonstrated that a K formal specification of EVM could automatically generate a VM comparable in performance to hand-crafted implementations.
+
+I helped developing the Solidity to IELE compiler.
+
+<br><br><br>
+
 ## DIMMAND
 
 <a href="https://www.festoon.studio/dimmand"><img src="assets/img/dimmand.png" align="right" width="200"/></a>
@@ -141,35 +171,15 @@ digital solution for detecting literacy difficulties
 
 <br><br>
 
-## K-Framework (Haskell backend)
-
-<a href="https://github.com/runtimeverification/haskell-backend"><img src="assets/img/k-logo-dark.png" align="right" width="200"/></a>
-
-<em>Developer<br>2018</em>
-
-<em>"[K](https://kframework.org/index.html) is a rewrite-based executable semantic framework in which programming languages, 
-type systems and formal analysis tools can be defined using configurations and rules"</em>
-
-I loved using K as the foundational framework for my [PhD work](https://www.doc.ic.ac.uk/~maffeis/phpsemantics/), 
-and I was privileged, a couple of years later, to be able to contribute 
-back to its community (as well as practicing some [Haskell](https://www.haskell.org/)!)
-
-<br><br>
-
-## Solidity to IELE compiler
-
-<a href="https://github.com/runtimeverification/haskell-backend"><img src="assets/img/iele-2.png" align="right" width="200"/></a>
-
-<p><em>Developer<br>2018</em></p>
-
-[IELE](https://runtimeverification.com/the-iele-virtual-machine) is an improvement on the Ethereum blockchain virtual machine.
- It was created after the KEVM project demonstrated that a K formal specification of EVM could automatically generate a VM comparable in performance to hand-crafted implementations.
-
-I helped developing the Solidity to IELE compiler.
-
-<br><br><br>
-
 # 🧪 Research & publications
+
+I hold a PhD in <em>Computing</em> from [Imperial College London](https://www.imperial.ac.uk/), where I worked in the field
+of <em>programming language</em> theory and <em>formal methods</em>. 
+
+My thesis was about the formalisation of the PHP programming language 
+and the development of a static analysis tool derived from the formal semamtics (see below).
+
+Here are the main research projects and publications I worked on during the years. 
 
 ## Projects
 
@@ -177,7 +187,7 @@ I helped developing the Solidity to IELE compiler.
 
 <em>Lead Developer / PhD Student<br>2018</em>
 
-[KPHP](https://github.com/dfilaretti/KPHP) is a formal specification of the PHP 
+[KPHP](https://github.com/dfilaretti/KPHP) is a <em>formal specification</em> of the PHP 
 programming language written in the [K-Framework](https://kframework.org/index.html), 
 together with a prototype bug finding tool based on the theory 
 of [abstract interpretation](https://en.wikipedia.org/wiki/Abstract_interpretation) 
@@ -192,9 +202,9 @@ and derived directly from the formal semantics.
 
 <em>Developer / PhD Student<br>2018</em>
 
-[JSCert](https://jscert.org/) is a mechanised specification of JavaScript, 
+[JSCert](https://jscert.org/) is a <em>mechanised specification</em> of JavaScript, 
 written in the [Coq](https://coq.inria.fr/) proof assistant.
-JSRef is a reference interpreter for JavaScript in OCaml, which has 
+JSRef is a <em>reference interpreter</em> for JavaScript in OCaml, which has 
 been proved correct with respect to JSCert and tested with the Test 262 test suite.
 
 * [website](https://jscert.org/)
