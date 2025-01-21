@@ -13,7 +13,7 @@ as Haskell and Clojure) and extensive research experience in the field of formal
 * [research & publications](#-research--publications)
 
 
-Here is [my CV](assets/cv/Daniele%20Filaretti%20-%20CV%202025.pdf).
+Here is [my CV](assets/cv/Daniele%20Filaretti%20CV.pdf).
 
 # 🧑‍💻 Working on
 
