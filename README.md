@@ -56,7 +56,7 @@ To get started with the language I did
 <em>Developer<br>2020-2024</em>
 
 Since 2020, I contributed to the development of the Loopcloud desktop app and its companion audio plugin 
-(which can be used to sync the app with the user's DAW).
+(which syncs the app to the user's DAW for a more integrated experience).
 
 I delivered several new major features (such as <em>collections</em>, MIDI support and an onboarding interactive tutorial), 
 and an extensive UI rework, in addition to countless bug fixes and workflow improvements.
