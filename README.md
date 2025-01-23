@@ -32,7 +32,7 @@ Relese info soon! 🔥
 
 ## img2ASCII
 
-<a href="https://github.com/dfilaretti/img2ascii_rust"><img src="assets/img/img2ascii.png" align="right" width="400"/></a>
+<a href="https://github.com/dfilaretti/img2ascii_rust"><img src="assets/img/img2ascii.png" align="right" width="500"/></a>
 
 <em>Author<br>2025-Present</em>
 
@@ -42,6 +42,7 @@ that converts image files to ASCII art.
 Check out the [README](https://github.com/dfilaretti/img2ascii_rust)!
 
 <br><br><br><br><br>
+<br><br><br><br>
 
 # 🌱 Stuff I'm learning
 
