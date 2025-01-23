@@ -39,6 +39,9 @@ More info soon 🔥
 As I've been [learning Rust](#-stuff-im-learning) during the last couple of months, I decided to get some practice by building this fun little project
 that converts image files to ASCII art. 
 
+One of the goals was also to familiarize with functional programming techniques in Rust 
+(e.g. I didn't use any `for` loop to iterate through the image pixels, but relied on iterators facilities; also tried not to use `mut`able variables)
+
 Check out the [README](https://github.com/dfilaretti/img2ascii_rust)!
 
 <br><br><br><br><br>
