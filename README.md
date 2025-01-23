@@ -44,7 +44,7 @@ One of the goals was also to familiarize with functional programming techniques 
 
 Check out the [README](https://github.com/dfilaretti/img2ascii_rust)!
 
-<br><br><br><br><br>
+<br><br><br><br>
 
 # 🌱 Stuff I'm learning
 
