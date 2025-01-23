@@ -24,9 +24,9 @@ For more details, please see [my CV](assets/cv/Daniele%20Filaretti%20CV.pdf).
 <em>Co-author & Lead developer<br>2024-Present</em>
 
 An audio FX plugin designed in collaboration with acclaimed 
-trance producer [Steve Allen](https://www.facebook.com/steveallenofficial/). It should be the first of a series! 
+trance producer [Steve Allen](https://www.facebook.com/steveallenofficial/). It should be the first of a series of releases.
 
-Relese info soon! 🔥
+More info soon 🔥
 
 <br><br><br><br>
 
