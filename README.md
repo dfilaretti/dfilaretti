@@ -2,7 +2,7 @@
 
 I'm a software engineer, [former academic](#-research--publications) and [electronic music producer](https://linktr.ee/danielefilaretti).
 
-Although in the last couple of years my main focus have been on <em>music/audio technology</em> (C++/JUCE), 
+Although in the last couple of years my main focus have been on <em>music technology</em> and <em>audio programming> (C++/JUCE), 
 I also have a keen interest in <em>functional programming</em> (with hands-on experience in languages such 
 as Haskell and Clojure) and extensive [research experience](#-research--publications) in the field of <em>formal methods</em> and <em>programming language theory</em> 
 I've been recently [learning Rust](#-stuff-im-learning) and really enjoying the ride! 
