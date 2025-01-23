@@ -36,14 +36,15 @@ Relese info soon! 🔥
 
 <a href="https://doc.rust-lang.org/book/title-page.html"><img src="assets/img/rust-book.jpg" align="right" width="200"/></a>
 
-Having spent the last ~5 years doing mostly C++ (as the de-fact standard for audio programming) 
-while also having a keen interest in functional programming, Rust caught my attention. 
+As a C++ developer with some familiarity with functional programming languages such as Haskell, Rust definitely caught my attention. 
 
-To get started with the language I did 
+I love Rust's memory safety (coming from C++, it's a big thing!), modern and smooth tooling experience and those language features (expression-oriented, algebraic data types, iterators, immutability by default etc.) that makes it feel a bit more like a functional language while still giving you all the power and performance of C++ (and the ability to work on audio plugins, which is pretty much exclusive domain of C++!)
 
-- read the official [Rust Book](https://doc.rust-lang.org/book/title-page.html)
-- complete the [Rustlings](https://github.com/rust-lang/rustlings) exercises
-- as a little, fun project, developed a small CLI app to convert images to ASCII art ([repo](https://github.com/dfilaretti/img2ascii_rust))
+To get started with the language I am...
+
+- reading the official [Rust Book](https://doc.rust-lang.org/book/title-page.html)
+- completing the [Rustlings](https://github.com/rust-lang/rustlings) exercises
+- as a little, fun project, developing a small CLI app to convert images to ASCII art ([repo](https://github.com/dfilaretti/img2ascii_rust))
 
 <br><br>
 
