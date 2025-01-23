@@ -1,6 +1,6 @@
 # 👋 About 
 
-I'm a programmer, [former academic](#-research--publications) and [music producer](https://linktr.ee/danielefilaretti).
+I'm a software engineer, [former academic](#-research--publications) and [music producer](https://linktr.ee/danielefilaretti).
 
 Although in the last couple of years my main focus have been on <em>music/audio technology</em> (C++/JUCE), 
 I also have a keen interest in <em>functional programming</em> (with hands-on experience in languages such 
