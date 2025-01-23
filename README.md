@@ -8,8 +8,8 @@ as Haskell and Clojure) and extensive research experience in the field of formal
 
 * [🧑‍💻 stuff I'm  working on](#-stuff-im-working-on)
 * [🌱 stuff I'm learning](#-stuff-im-learning)
-* [🤝 past projects (audio / music technology)](#-past-projects-audio--music-technology)
-* [🤝 past projects (misc)](#-past-projects-misc)
+* [🎧 past projects (audio / music technology)](#-past-projects-audio--music-technology)
+* [👨‍💻 past projects (misc)](#-past-projects-misc)
 * [🧪 research & publications](#-research--publications)
 
 
@@ -48,7 +48,7 @@ To get started with the language I am...
 
 <br><br>
 
-# 🤝 Past projects (audio / music technology)
+# 🎧 Past projects (audio / music technology)
 
 ## Loopcloud
 
@@ -116,7 +116,7 @@ A bunch of free audio plugins I wrote while learning JUCE.
 
 <br><br>
 
-# 💼 Past projects (misc)
+# 👨‍💻 Past projects (misc)
 
 ## Yapster
 
