@@ -1,21 +1,21 @@
 # 👋 About 
 
-I'm a software engineer, [former academic](#-research--publications) and [music producer](https://linktr.ee/danielefilaretti).
+I'm a programmer, [former academic](#-research--publications) and [music producer](https://linktr.ee/danielefilaretti).
 
-Although lately my main focus have been on music technology and audio programming, 
-I also have a keen interest in functional programming (with hands-on experience in languages such 
+Although lately my main focus have been on <em>music/audio technology</em>, 
+I also have a keen interest in <em>functional programming</em> (with hands-on experience in languages such 
 as Haskell and Clojure) and extensive research experience in the field of formal methods (static analysis, abstract interpretation, proof assistants etc.)
 
-* [stuff I'm currently working on](#-working-on)
-* [stuff I'm currently learning](#-learning)
-* [past projects (audio)](#-past-projects-audio)
-* [past projects (other)](#-past-projects-non-audio)
-* [research & publications](#-research--publications)
+* [🧑‍💻 stuff I'm  working on](#-stuff-im-working-on)
+* [🌱 stuff I'm learning](#-stuff-im-learning)
+* [🤝 past projects (audio / music technology)](#-past-projects-audio--music-technology)
+* [🤝 past projects (misc)](#-past-projects-misc)
+* [🧪 research & publications](#-research--publications)
 
 
 Here is [my CV](assets/cv/Daniele%20Filaretti%20CV.pdf).
 
-# 🧑‍💻 Working on
+# 🧑‍💻 Stuff I'm working on
 
 ## Sweeper
 
@@ -30,7 +30,7 @@ Relese info soon! 🔥
 
 <br><br><br><br>
 
-# 🌱 Learning
+# 🌱 Stuff I'm learning
 
 ## Rust
 
@@ -48,7 +48,7 @@ To get started with the language I am...
 
 <br><br>
 
-# 💼 Past projects (audio)
+# 🤝 Past projects (audio / music technology)
 
 ## Loopcloud
 
@@ -116,7 +116,7 @@ A bunch of free audio plugins I wrote while learning JUCE.
 
 <br><br>
 
-# 💼 Past projects (non-audio)
+# 💼 Past projects (misc)
 
 ## Yapster
 
