@@ -2,18 +2,18 @@
 
 I'm a programmer, [former academic](#-research--publications) and [music producer](https://linktr.ee/danielefilaretti).
 
-Although lately my main focus have been on <em>music/audio technology</em>, 
+Although in the last couple of years my main focus have been on <em>music/audio technology</em> (C++/JUCE), 
 I also have a keen interest in <em>functional programming</em> (with hands-on experience in languages such 
 as Haskell and Clojure) and extensive research experience in the field of formal methods (static analysis, abstract interpretation, proof assistants etc.)
 
 * [🧑‍💻 stuff I'm  working on](#-stuff-im-working-on)
 * [🌱 stuff I'm learning](#-stuff-im-learning)
 * [🎧 past projects (audio / music technology)](#-past-projects-audio--music-technology)
-* [👨‍💻 past projects (misc)](#-past-projects-misc)
+* [🖥️ past projects (misc)](#-past-projects-misc)
 * [🧪 research & publications](#-research--publications)
 
 
-For more details, please see [my CV](assets/cv/Daniele%20Filaretti%20CV.pdf).
+For more details, please see [my CV](assets/cv/Daniele%20Filaretti%20CV.pdf) and [LinkedIn](https://www.linkedin.com/in/danfilaretti/) profile.
 
 # 🧑‍💻 Stuff I'm working on
 
@@ -132,7 +132,7 @@ A bunch of free audio plugins I wrote while learning JUCE.
 
 <br><br>
 
-# 👨‍💻 Past projects (misc)
+# 🖥️ Past projects (misc)
 
 ## Yapster
 
