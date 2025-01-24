@@ -6,7 +6,7 @@ Although in the last couple of years my main focus have been on <em>music techno
 I also have a keen interest in <em>functional programming</em> (with hands-on experience in languages such 
 as Haskell and Clojure) and [research experience](#-research--publications) in the field of <em>formal methods</em> and <em>programming language theory</em>.
 
-I recently started [learning Rust](#-stuff-im-learning) and would be interested in using it professionally in the future.
+I recently started [learning Rust](#-stuff-im-learning) and have been really enjoying it so far!
 
 * [🧑‍💻 stuff I'm  working on](#-stuff-im-working-on)
 * [🌱 stuff I'm learning](#-stuff-im-learning)
