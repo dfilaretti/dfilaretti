@@ -5,7 +5,8 @@ I'm a software engineer, [former academic](#-research--publications) and [electr
 Although in the last couple of years my main focus have been on <em>music technology</em> and <em>audio programming</em> (C++/JUCE), 
 I also have a keen interest in <em>functional programming</em> (with hands-on experience in languages such 
 as Haskell and Clojure) and [research experience](#-research--publications) in the field of <em>formal methods</em> and <em>programming language theory</em>.
-I recently started [learning Rust](#-stuff-im-learning) and am really enjoying it! 
+
+I recently started [learning Rust](#-stuff-im-learning) and would be interested in using it professionally in the future.
 
 * [🧑‍💻 stuff I'm  working on](#-stuff-im-working-on)
 * [🌱 stuff I'm learning](#-stuff-im-learning)
