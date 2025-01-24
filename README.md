@@ -52,7 +52,10 @@ Check out the [README](https://github.com/dfilaretti/img2ascii_rust)!
 
 ## Rust
 
-<a href="https://doc.rust-lang.org/book/title-page.html"><img src="assets/img/rust-book.jpg" align="right" width="200"/></a>
+<a>
+    <img src="assets/img/rust-book.jpg" align="right" width="200"/>
+    <img src="assets/img/rustlings.png" align="right" width="300">
+</a>
 
 As a C++ developer with some familiarity with functional programming languages such as Haskell, Rust definitely caught my attention. 
 
