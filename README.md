@@ -59,7 +59,7 @@ Check out the [README](https://github.com/dfilaretti/img2ascii_rust)!
 
 As a C++ developer with some familiarity with functional programming languages such as Haskell, Rust definitely caught my attention. 
 
-I love Rust's memory safety (coming from C++, it's a big thing!), modern and smooth tooling experience and those language features (expression-oriented, algebraic data types, iterators, immutability by default etc.) that makes it feel a bit more like a functional language while still giving you all the power and performance of C++ (and the ability to work on audio plugins, which is pretty much exclusive domain of C++!)
+I love Rust's memory safety (coming from C++, it's a big thing!), modern tooling experience and language features (expression-oriented, algebraic data types, iterators, immutability by default etc.) that makes it feel more like a functional language while retaining all the power and performance of C++ (and the ability to work on audio plugins, which is pretty much exclusive domain of C++!)
 
 To get started with the language I am...
 
