@@ -1,6 +1,8 @@
 # 👋 About 
 
-I'm a software engineer, [former academic](#-research--publications) and [electronic music producer](https://linktr.ee/danielefilaretti).
+I'm a software engineer, electronic music artist and computer scientist. 
+
+I'm a software engineer, [electronic music artist](https://linktr.ee/danielefilaretti) and [computer scientist](#-research--publications).
 
 Although in the last couple of years my main focus have been on <em>music technology</em> and <em>audio programming</em> (C++/JUCE), 
 I also have a keen interest in <em>functional programming</em> (with hands-on experience in languages such 
