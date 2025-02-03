@@ -4,9 +4,7 @@ I'm a software engineer, electronic music artist and computer scientist.
 
 I'm a software engineer, [electronic music artist](https://linktr.ee/danielefilaretti) and [computer scientist](#-research--publications).
 
-Although in the last couple of years my main focus have been on <em>music technology</em> and <em>audio programming</em> (C++/JUCE), 
-I also have a keen interest in <em>functional programming</em> (with hands-on experience in languages such 
-as Haskell and Clojure) and [research experience](#-research--publications) in the field of <em>formal methods</em> and <em>programming language theory</em>.
+In recent years, my primary focus has been on music technology and audio programming (mostly C++/JUCE with some Matlab, Max/MSP etc.). However, I also have a strong interest in functional programming, with hands-on experience in languages like Haskell and Clojure. Additionally, I have [research experience](#-research--publications) in formal methods and programming language theory, along with practical experience across various fields, including blockchain and mobile app development.
 
 I recently started [learning Rust](#-stuff-im-learning) and have been really enjoying it so far!
 
