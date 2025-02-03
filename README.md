@@ -13,7 +13,7 @@ I recently started [learning Rust](#-stuff-im-learning) and have been really enj
 * [🧪 research & publications](#-research--publications)
 
 
-For more details, please see [my CV](assets/cv/Daniele%20Filaretti%20CV.pdf) and [LinkedIn](https://www.linkedin.com/in/danfilaretti/) profile.
+For more details, please also see my [LinkedIn](https://www.linkedin.com/in/danfilaretti/) profile.
 
 # 🧑‍💻 Stuff I'm working on
 
