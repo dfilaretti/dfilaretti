@@ -9,7 +9,7 @@ I recently started [learning Rust](#-stuff-im-learning) and have been really enj
 * [🧑‍💻 stuff I'm  working on](#-stuff-im-working-on)
 * [🌱 stuff I'm learning](#-stuff-im-learning)
 * [🎧 past projects (audio / music technology)](#-past-projects-audio--music-technology)
-* [🖥️ past projects (misc)](#-past-projects-misc)
+* [🖥️ other projects](#-other-projects)
 * [🧪 research & publications](#-research--publications)
 
 
@@ -135,7 +135,7 @@ A bunch of free audio plugins I wrote while learning JUCE.
 
 <br><br>
 
-# 🖥️ Past projects (misc)
+# 🖥️ Other projects
 
 ## Yapster
 
