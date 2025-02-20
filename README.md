@@ -117,6 +117,8 @@ A Max4Live device I built for helping me quickly come up with lead
 patterns when writing trance. It started as a 2020 lockdown project 
 but it's still receiving updates! 
 
+Available [here](https://dfmusic.gumroad.com/l/df-arp)!
+
 <br><br>
 
 ## Free plugins bundle
