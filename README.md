@@ -107,7 +107,7 @@ During my employment there I helped develop and maintain the software powering S
 
 <br><br>
 
-## Uplift Arpeggio
+## df.arp
 
 <a href="https://github.com/dfilaretti/uplift-arpeggio"><img src="assets/img/uplift-arpeggio.png" align="right" width="500"/></a>
 
