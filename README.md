@@ -137,7 +137,7 @@ A bunch of free audio plugins I wrote while learning JUCE.
 
 <br><br>
 
-# 🖥️ Other projects
+# Other projects
 
 ## Yapster
 
