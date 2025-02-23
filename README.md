@@ -23,8 +23,8 @@ For more details, please also see my [LinkedIn](https://www.linkedin.com/in/danf
 
 <em>Co-author & Lead developer<br>2024-Present</em>
 
-An audio FX plugin designed in collaboration with acclaimed 
-trance producer [Steve Allen](https://www.facebook.com/steveallenofficial/). It should be the first of a series of releases.
+An audio FX plugin designed in collaboration with an acclaimed 
+trance producer. It should be the first of a series of releases.
 
 More info soon 🔥
 
