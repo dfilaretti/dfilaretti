@@ -34,22 +34,13 @@ Check out the [README](https://github.com/dfilaretti/img2ascii_rust)!
 
 # 🌱 Stuff I'm learning
 
-## Rust
+## Mastering Ethereum (2nd edition) 
 
 <a>
-    <img src="assets/img/rust-book.jpg" align="right" width="200"/>
+    <!-- <img src="assets/img/rust-book.jpg" align="right" width="200"/> -->
+    <img src="assets/img/met.jpeg" align="right" width="200"/>
     <!--<img src="assets/img/rustlings.png" align="right" width="300">-->
 </a>
-
-As a C++ developer with some familiarity with functional programming languages such as Haskell, Rust definitely caught my attention. 
-
-I love Rust's memory safety (coming from C++, it's a big thing!), modern tooling experience and language features (expression-oriented, algebraic data types, iterators, immutability by default etc.) that makes it feel more like a functional language while retaining all the power and performance of C++ (and the ability to work on audio plugins, which is pretty much exclusive domain of C++!)
-
-To get started with the language I am...
-
-- reading the official [Rust Book](https://doc.rust-lang.org/book/title-page.html)
-- completing the [Rustlings](https://github.com/rust-lang/rustlings) exercises
-- as a little, fun project, developing a small CLI app to convert images to ASCII art ([repo](https://github.com/dfilaretti/img2ascii_rust))
 
 <br><br>
 
