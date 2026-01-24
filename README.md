@@ -9,28 +9,14 @@ Earlier in my career, I also specialized in audio programming and music technolo
 * [🧑‍💻 stuff I'm  working on](#-stuff-im-working-on)
 * [🌱 stuff I'm learning](#-stuff-im-learning)
 * [🎧 past projects (audio / music technology)](#-past-projects-audio--music-technology)
-* [🖥️ other projects](#-other-projects)
+* [🖥️ past projects (formal methods etc.)](#-other-projects)
 * [🧪 research & publications](#-research--publications)
 
 For more details, please also see my [LinkedIn](https://www.linkedin.com/in/danfilaretti/) profile.
 
 # 🧑‍💻 Stuff I'm working on
 
-## img2ASCII
-
-<a href="https://github.com/dfilaretti/img2ascii_rust"><img src="assets/img/img2ascii.png" align="right" width="400"/></a>
-
-<em>Author<br>2025-Present</em>
-
-As I've been [learning Rust](#-stuff-im-learning) during the last couple of months, I decided to get some practice by building this fun little project
-that converts image files to ASCII art. 
-
-One of the goals was also to familiarize with functional programming techniques in Rust 
-(e.g. I didn't use any `for` loop to iterate through the image pixels, but relied on iterators facilities; also tried not to use `mut`able variables)
-
-Check out the [README](https://github.com/dfilaretti/img2ascii_rust)!
-
-<br><br>
+I'm currently employed as a Senior R&D Engineer at [Veridise](https://veridise.com/) where I help develop static analysis tools for discovering vulnerabilities in Solidity smart contracts. 
 
 # 🌱 Stuff I'm learning
 
@@ -42,7 +28,7 @@ Check out the [README](https://github.com/dfilaretti/img2ascii_rust)!
     <!--<img src="assets/img/rustlings.png" align="right" width="300">-->
 </a>
 
-<br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br>
 
 # 🎧 Past projects (audio / music technology)
 
@@ -182,6 +168,22 @@ digital solution for detecting literacy difficulties
 & strengths in children.
 
 <br><br>
+
+# 🧸 Toy projects 
+
+## img2ASCII
+
+<a href="https://github.com/dfilaretti/img2ascii_rust"><img src="assets/img/img2ascii.png" align="right" width="400"/></a>
+
+<em>Author<br>2025-Present</em>
+
+As I've been [learning Rust](#-stuff-im-learning) during the last couple of months, I decided to get some practice by building this fun little project
+that converts image files to ASCII art. 
+
+One of the goals was also to familiarize with functional programming techniques in Rust 
+(e.g. I didn't use any `for` loop to iterate through the image pixels, but relied on iterators facilities; also tried not to use `mut`able variables)
+
+Check out the [README](https://github.com/dfilaretti/img2ascii_rust)!
 
 # 🧪 Research & publications
 
