@@ -7,7 +7,7 @@ I currently work in web3 security and formal methods, focusing on the developmen
 Earlier in my career, I also specialized in audio programming and music technology (C++/JUCE, Matlab, Max/MSP) and remain active as an electronic music artist. I also enjoy functional programming and have hands-on experience in Haskell and Clojure among others. 
 
 * [🧑‍💻 stuff I'm  working on](#-stuff-im-working-on)
-* [🌱 stuff I'm learning](#-stuff-im-learning)
+* [📚 stuff I'm learning](#-stuff-im-learning)
 * [🎧 past projects (audio / music technology)](#-past-projects-audio--music-technology)
 * [🖥️ past projects (formal methods etc.)](#-other-projects)
 * [🧪 research & publications](#-research--publications)
@@ -18,7 +18,7 @@ For more details, please also see my [LinkedIn](https://www.linkedin.com/in/danf
 
 I'm currently employed as a Senior R&D Engineer at [Veridise](https://veridise.com/) where I help develop static analysis tools for discovering vulnerabilities in Solidity smart contracts. 
 
-# 🌱 Stuff I'm learning
+# 📚 Stuff I'm learning
 
 ## Mastering Ethereum (2nd edition) 
 
