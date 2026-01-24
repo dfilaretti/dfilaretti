@@ -113,19 +113,7 @@ A bunch of free audio plugins I wrote while learning JUCE.
 
 <br><br>
 
-# 💻 Other projects
-
-## Yapster
-
-<a href=""><img src="assets/img/yapster.png" align="right" width="175"/></a>
-<em>Clojure Developer (full-stack)<br>2019 - 2020</em>
-
-Helped developing [Yapster](https://www.yapster.info/) - a messaging app for the workplace; contributing new features across both frontend and backend as well as bug-fixes (Clojure/ClojureScript).
-
-I <em> really </em> enjoyed learning and working with the [Clojure](https://clojure.org/) 
-programming language! 
-
-<br><br><br>
+# 💻 Past projects (blockchain)
 
 ## K-Framework (Haskell backend)
 
@@ -154,6 +142,20 @@ back to its community (as well as practicing some [Haskell](https://www.haskell.
  It was created after the [KEVM](https://github.com/runtimeverification/evm-semantics) project demonstrated that a K formal specification of EVM could automatically generate a VM comparable in performance to hand-crafted implementations.
 
 I helped developing the Solidity to IELE compiler.
+
+<br><br><br>
+
+# 💻 Past projects (misc)
+
+## Yapster
+
+<a href=""><img src="assets/img/yapster.png" align="right" width="175"/></a>
+<em>Clojure Developer (full-stack)<br>2019 - 2020</em>
+
+Helped developing [Yapster](https://www.yapster.info/) - a messaging app for the workplace; contributing new features across both frontend and backend as well as bug-fixes (Clojure/ClojureScript).
+
+I <em> really </em> enjoyed learning and working with the [Clojure](https://clojure.org/) 
+programming language! 
 
 <br><br><br>
 
