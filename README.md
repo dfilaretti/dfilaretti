@@ -1,10 +1,10 @@
 # 👋 About 
 
-I'm a software engineer, [electronic music artist](https://linktr.ee/danielefilaretti) and [computer scientist](#-research--publications).
+I’m a software engineer and computer scientist, with a PhD in Computer Science from Imperial College London, and a background spanning audio systems, programming languages, and blockchain technologies.
 
-In recent years, my primary focus has been on music technology and audio programming (mostly C++/JUCE with some Matlab, Max/MSP etc.). However, I also have a strong interest in functional programming, with hands-on experience in languages like Haskell and Clojure. Additionally, I have [research experience](#-research--publications) in formal methods and programming language theory, along with practical experience across various fields, including blockchain and mobile app development.
+I currently work in web3 security and formal methods, focusing on the development of static analysis tools for Solidity smart contracts.
 
-I recently started [learning Rust](#-stuff-im-learning) and have been really enjoying it so far!
+Earlier in my career, I also specialized in audio programming and music technology (C++/JUCE, Matlab, Max/MSP) and remain active as an electronic music artist. I also enjoy functional programming and have hands-on experience in Haskell and Clojure among others. 
 
 * [🧑‍💻 stuff I'm  working on](#-stuff-im-working-on)
 * [🌱 stuff I'm learning](#-stuff-im-learning)
@@ -12,23 +12,9 @@ I recently started [learning Rust](#-stuff-im-learning) and have been really enj
 * [🖥️ other projects](#-other-projects)
 * [🧪 research & publications](#-research--publications)
 
-
 For more details, please also see my [LinkedIn](https://www.linkedin.com/in/danfilaretti/) profile.
 
 # 🧑‍💻 Stuff I'm working on
-
-## Sweeper
-
-<a href=""><img src="assets/img/sweeper-wip.png" align="right" width="500"/></a>
-
-<em>Co-author & Lead developer<br>2024-Present</em>
-
-An audio FX plugin designed in collaboration with an acclaimed 
-trance producer. It should be the first of a series of releases.
-
-More info soon 🔥
-
-<br><br><br><br>
 
 ## img2ASCII
 
@@ -68,6 +54,19 @@ To get started with the language I am...
 <br><br>
 
 # 🎧 Past projects (audio / music technology)
+
+## Sweeper
+
+<a href=""><img src="assets/img/sweeper-wip.png" align="right" width="500"/></a>
+
+<em>Co-author & Lead developer<br>2024-Present</em>
+
+An audio FX plugin designed in collaboration with an acclaimed 
+trance producer. It should be the first of a series of releases.
+
+More info soon 🔥
+
+<br><br><br><br>
 
 ## Loopcloud
 
