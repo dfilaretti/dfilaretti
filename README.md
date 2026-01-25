@@ -171,6 +171,16 @@ digital solution for detecting literacy difficulties
 
 <br><br>
 
+## ne - the nice editor
+
+<a href="https://github.com/vigna/ne"><img src="assets/img/ne.png" align="right" width="200"/></a>
+
+<em>Internship<br>2009 - 2008</em>
+
+Implemented syntax highlighting in the ne text editor. 
+
+<br><br>
+
 # 🧸 Toy projects 
 
 ## img2ASCII
