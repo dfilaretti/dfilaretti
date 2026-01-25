@@ -24,11 +24,11 @@ I'm currently employed as a Senior R&D Engineer at [Veridise](https://veridise.c
 
 <a>
     <!-- <img src="assets/img/rust-book.jpg" align="right" width="200"/> -->
-    <img src="assets/img/met.jpeg" align="right" width="200"/>
+    <img src="assets/img/met.jpeg" align="left" width="150"/>
     <!--<img src="assets/img/rustlings.png" align="right" width="300">-->
 </a>
 
-<br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 
 # 🎧 Past projects (audio / music technology)
 
