@@ -8,11 +8,6 @@ I've worked remotely for most of my career and am comfortable collaborating in d
 
 Outside of software, I'm an electronic music producer and artist.
 
-* [🧑‍💻 stuff I'm  working on](#-stuff-im-working-on)
-* [📚 stuff I'm learning](#-stuff-im-learning)
-* [❤️ selected past projects](#-past-projects-audio--music-technology)
-* [🧪 research & publications](#-research--publications)
-
 For more details, please also see my [LinkedIn](https://www.linkedin.com/in/danfilaretti/) profile or download my [CV](assets/Daniele-Filaretti-CV-2026.pdf).
 
 # 🧑‍💻 Stuff I'm working on
