@@ -28,7 +28,9 @@ in the context of the specific projects I'm involved.
 
 # 🎧 Selected past projects
 
-## Loopcloud
+## Audio & music technology
+
+### Loopcloud
 
 <a href="https://www.loopcloud.com/"><img src="assets/img/loopcloud.png" align="right" width="550"/></a>
 
@@ -42,7 +44,7 @@ and an extensive UI rework, in addition to countless bug fixes and workflow impr
 
 <br><br><br><br>
 
-## TATAT
+### TATAT
 
 <a href="https://k-devices.com/products/tatat/"><img src="assets/img/tatat-dark.png" align="right" width="500"/></a>
 
@@ -54,7 +56,7 @@ events to fixed patterns.
 
 <br><br><br><br><br><br>
 
-## df.arp
+### df.arp
 
 <a href="https://github.com/dfilaretti/uplift-arpeggio"><img src="assets/img/uplift-arpeggio.png" align="right" width="500"/></a>
 
@@ -68,9 +70,9 @@ Available [here](https://dfmusic.gumroad.com/l/df-arp)!
 
 <br><br>
 
-# 💻 Past projects (blockchain)
+## 💻 Compilers & formal methods
 
-## K-Framework (Haskell backend)
+### K-Framework (Haskell backend)
 
 <a href="https://github.com/runtimeverification/haskell-backend"><img src="assets/img/k-logo-dark.png" align="right" width="200"/></a>
 
@@ -87,7 +89,7 @@ back to its community (as well as practicing some [Haskell](https://www.haskell.
 
 <br><br>
 
-## Solidity to IELE compiler
+### Solidity to IELE compiler
 
 <a href="https://github.com/runtimeverification/haskell-backend"><img src="assets/img/iele-2.png" align="right" width="200"/></a>
 
@@ -100,9 +102,9 @@ I helped developing the Solidity to IELE compiler.
 
 <br><br><br>
 
-# 💻 Past projects (misc)
+## 💻 Miscellaneous (apps, cool stuff)
 
-## Yapster
+### Yapster
 
 <a href=""><img src="assets/img/yapster.png" align="right" width="175"/></a>
 <em>Clojure Developer (full-stack)<br>2019 - 2020</em>
@@ -114,7 +116,7 @@ programming language!
 
 <br><br><br>
 
-## DIMMAND
+### DIMMAND
 
 <a href="https://www.festoon.studio/dimmand"><img src="assets/img/dimmand.png" align="right" width="200"/></a>
 
@@ -126,7 +128,7 @@ digital solution for detecting literacy difficulties
 
 <br><br>
 
-## ne - the nice editor
+### ne - the nice editor
 
 <a href="https://github.com/vigna/ne"><img src="assets/img/ne.png" align="right" width="200"/></a>
 
