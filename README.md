@@ -24,15 +24,14 @@ I'm currently employed as a Senior R&D Engineer at [Veridise](https://veridise.c
 Lately I've been working a lot with LLM tools and trying to understand their effectiveness and limitations 
 in the context of the specific projects I'm involved. 
 
-<br><br><br>
-
 # ❤️ Selected past projects
 
 Here's a selection of cool project I did work on in the past. 
 For a more complete list plese see my [LinkedIn](https://www.linkedin.com/in/danfilaretti/) and repos on GitHub. 
 
-## Audio & music technology
-
+<details>
+<summary> 🎧 Music technology </summary>
+ 
 ### Loopcloud
 
 <a href="https://www.loopcloud.com/"><img src="assets/img/loopcloud.png" align="right" width="550"/></a>
@@ -86,8 +85,11 @@ I delivered several new major features (such as <em>collections</em>, MIDI suppo
 and an extensive UI rework, in addition to countless bug fixes and workflow improvements.
 
 <br><br><br><br>
+ 
+</details>
 
-## 💻 Compilers & formal methods
+<details>
+<summary> 💻 Compilers & formal methods </summary>
 
 ### K-Framework (Haskell backend)
 
@@ -118,8 +120,11 @@ back to its community (as well as practicing some [Haskell](https://www.haskell.
 I helped developing the Solidity to IELE compiler.
 
 <br><br><br>
+ 
+</details>
 
-## 💻 Miscellaneous (apps, cool stuff)
+<details>
+<summary> 🚀 Misc </summary>
 
 ### Yapster
 
@@ -154,6 +159,10 @@ digital solution for detecting literacy difficulties
 Implemented syntax highlighting in the ne text editor. 
 
 <br><br>
+ 
+</details>
+
+
 
 # 🧸 Toy projects 
 
