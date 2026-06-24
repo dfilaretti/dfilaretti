@@ -1,10 +1,12 @@
 # 👋 About 
 
-I’m a software engineer and computer scientist, with a PhD in Computer Science from Imperial College London, and a background spanning audio systems, programming languages, and blockchain technologies.
+Over the last decade I've worked across compiler engineering, audio/music software, functional programming and blockchain; today I work on building static analysis tools for Solidity smart contracts using C++ and MLIR.  
 
-I currently work in web3 security and formal methods, focusing on the development of static analysis tools for Solidity smart contracts.
+I have a PhD in Computer Science from Imperial College London, where I focused on programming languages and formal methods (mostly static analysis and abstract interpretation).   
 
-Earlier in my career, I also specialized in audio programming and music technology (C++/JUCE, Matlab, Max/MSP) and remain active as an electronic music artist. I also enjoy functional programming and have hands-on experience in Haskell and Clojure among others. 
+I've worked remotely for most of my career and am comfortable collaborating in distributed, async-first teams across time zones.  
+
+Outside of software, I'm an electronic music producer and artist.
 
 * [🧑‍💻 stuff I'm  working on](#-stuff-im-working-on)
 * [📚 stuff I'm learning](#-stuff-im-learning)
@@ -16,19 +18,14 @@ For more details, please also see my [LinkedIn](https://www.linkedin.com/in/danf
 
 # 🧑‍💻 Stuff I'm working on
 
-I'm currently employed as a Senior R&D Engineer at [Veridise](https://veridise.com/) where I help develop static analysis tools for discovering vulnerabilities in Solidity smart contracts. 
+I'm currently employed as a Senior R&D Engineer at [Veridise](https://veridise.com/) where I develop static analysis tools for Solidity smart contracts using C++ & MLIR. 
 
 # 📚 Stuff I'm learning
 
-## Mastering Ethereum (2nd edition) 
+Lately I've been working a lot with LLM tools and trying to understand their effectiveness and limitations 
+in the context of the specific projects I'm involved. 
 
-<a>
-    <!-- <img src="assets/img/rust-book.jpg" align="right" width="200"/> -->
-    <img src="assets/img/met.jpeg" align="left" width="150"/>
-    <!--<img src="assets/img/rustlings.png" align="right" width="300">-->
-</a>
-
-<br><br><br><br><br><br><br><br><br>
+<br><br><br>
 
 # 🎧 Past projects (audio / music technology)
 
