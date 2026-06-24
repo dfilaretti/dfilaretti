@@ -10,7 +10,7 @@ Outside of software, I'm an electronic music producer and artist.
 
 * [🧑‍💻 stuff I'm  working on](#-stuff-im-working-on)
 * [📚 stuff I'm learning](#-stuff-im-learning)
-* [🎧 selected past projects](#-past-projects-audio--music-technology)
+* [❤️ selected past projects](#-past-projects-audio--music-technology)
 * [🧪 research & publications](#-research--publications)
 
 For more details, please also see my [LinkedIn](https://www.linkedin.com/in/danfilaretti/) profile.
@@ -26,7 +26,7 @@ in the context of the specific projects I'm involved.
 
 <br><br><br>
 
-# 📦 Selected past projects
+# ❤️ Selected past projects
 
 Here's a selection of cool project I did work on in the past. 
 For a more complete list plese see my [LinkedIn](https://www.linkedin.com/in/danfilaretti/) and repos on GitHub. 
