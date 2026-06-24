@@ -26,7 +26,10 @@ in the context of the specific projects I'm involved.
 
 <br><br><br>
 
-# 🎧 Selected past projects
+# 📦 Selected past projects
+
+Here's a selection of cool project I did work on in the past. 
+For a more complete list plese see my [LinkedIn](https://www.linkedin.com/in/danfilaretti/) and repos on GitHub. 
 
 ## Audio & music technology
 
@@ -69,6 +72,10 @@ but it's still receiving updates!
 Available [here](https://dfmusic.gumroad.com/l/df-arp)!
 
 <br><br>
+
+### Audioscan MILAN - Noise Transformed into Ambient Music
+
+TODO
 
 ## 💻 Compilers & formal methods
 
@@ -154,7 +161,7 @@ One of the goals was also to familiarize with functional programming techniques 
 
 Check out the [README](https://github.com/dfilaretti/img2ascii_rust)!
 
-# 🧪 Research & publications
+# 🧪 Academic Research & publications
 
 I hold a PhD in <em>Computing</em> from [Imperial College London](https://www.imperial.ac.uk/), where I worked in the field
 of <em>programming language</em> theory and <em>formal methods</em>. 
@@ -164,7 +171,7 @@ and the development of a static analysis tool derived from the formal semamtics 
 
 Here are the main research projects and publications I worked on during the years. 
 
-## Projects
+## Research Projects
 
 ### K-PHP (Executable formal semantics of PHP)
 
