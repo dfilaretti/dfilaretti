@@ -13,7 +13,7 @@ Outside of software, I'm an electronic music producer and artist.
 * [❤️ selected past projects](#-past-projects-audio--music-technology)
 * [🧪 research & publications](#-research--publications)
 
-For more details, please also see my [LinkedIn](https://www.linkedin.com/in/danfilaretti/) profile.
+For more details, please also see my [LinkedIn](https://www.linkedin.com/in/danfilaretti/) profile or download my [CV](assets/Daniele-Filaretti-CV-2026.pdf).
 
 # 🧑‍💻 Stuff I'm working on
 
