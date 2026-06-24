@@ -10,8 +10,7 @@ Outside of software, I'm an electronic music producer and artist.
 
 * [🧑‍💻 stuff I'm  working on](#-stuff-im-working-on)
 * [📚 stuff I'm learning](#-stuff-im-learning)
-* [🎧 past projects (audio / music technology)](#-past-projects-audio--music-technology)
-* [🖥️ past projects (formal methods etc.)](#-other-projects)
+* [🎧 selected past projects](#-past-projects-audio--music-technology)
 * [🧪 research & publications](#-research--publications)
 
 For more details, please also see my [LinkedIn](https://www.linkedin.com/in/danfilaretti/) profile.
@@ -27,20 +26,7 @@ in the context of the specific projects I'm involved.
 
 <br><br><br>
 
-# 🎧 Past projects (audio / music technology)
-
-## Sweeper
-
-<a href=""><img src="assets/img/sweeper-wip.png" align="right" width="500"/></a>
-
-<em>Co-author & Lead developer<br>2024-Present</em>
-
-An audio FX plugin designed in collaboration with an acclaimed 
-trance producer. It should be the first of a series of releases.
-
-More info soon 🔥
-
-<br><br><br><br>
+# 🎧 Selected past projects
 
 ## Loopcloud
 
@@ -68,18 +54,6 @@ events to fixed patterns.
 
 <br><br><br><br><br><br>
 
-## Solid State Logic (SSL) 
-
-<a href=""><img src="assets/img/ssl-1.png" align="right" width="300"/></a>
-
-<em>Developer<br>2016-2017</em>
-
-I had the privilege of working at SSL headquarters in Oxford. 
-
-During my employment there I helped develop and maintain the software powering Solid State Logic’s high-end digital consoles in both the Broadcast (System T) and Live (L200, L350 etc.) product families (C#).
-
-<br><br>
-
 ## df.arp
 
 <a href="https://github.com/dfilaretti/uplift-arpeggio"><img src="assets/img/uplift-arpeggio.png" align="right" width="500"/></a>
@@ -91,22 +65,6 @@ patterns when writing trance. It started as a 2020 lockdown project
 but it's still receiving updates! 
 
 Available [here](https://dfmusic.gumroad.com/l/df-arp)!
-
-<br><br>
-
-## Free plugins bundle
-
-<a href="https://github.com/dfilaretti/WeirdDrums"><img src="assets/img/wd-1.png" align="right" width="200"/></a>
-<a href="https://github.com/dfilaretti/waveshaper-demo"><img src="assets/img/waveshaper.png" align="right" width="200"/></a>
-
-<em>Author<br>2018</em>
-
-A bunch of free audio plugins I wrote while learning JUCE.
-
- - a nice [drum synth](https://github.com/dfilaretti/WeirdDrums)
- - a simple [waveshaper](https://github.com/dfilaretti/waveshaper-demo)
- - [stereo width](https://github.com/dfilaretti/stereowidth-demo) utility 
- - a [bitcrusher][https://github.com/dfilaretti/bitcrusher-demo-2]
 
 <br><br>
 
