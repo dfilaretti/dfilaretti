@@ -124,7 +124,7 @@ I helped developing the Solidity to IELE compiler.
 </details>
 
 <details>
-<summary> 🚀 Misc </summary>
+<summary> 😎 Misc </summary>
 
 ### Yapster
 
@@ -162,9 +162,8 @@ Implemented syntax highlighting in the ne text editor.
  
 </details>
 
-
-
-# 🧸 Toy projects 
+<details>
+<summary> 🧸 Toy projects </summary>
 
 ## img2ASCII
 
@@ -179,6 +178,9 @@ One of the goals was also to familiarize with functional programming techniques 
 (e.g. I didn't use any `for` loop to iterate through the image pixels, but relied on iterators facilities; also tried not to use `mut`able variables)
 
 Check out the [README](https://github.com/dfilaretti/img2ascii_rust)!
+
+
+</details>
 
 # 🧪 Academic Research & publications
 
