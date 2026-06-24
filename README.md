@@ -75,7 +75,17 @@ Available [here](https://dfmusic.gumroad.com/l/df-arp)!
 
 ### Audioscan MILAN - Noise Transformed into Ambient Music
 
-TODO
+<a href="https://www.loopcloud.com/"><img src="assets/img/audioscan.jpg" align="right" width="250"/></a>
+
+<em>Field recording, sound analysis/design/editing<br>2009-2010</em>
+
+Since 2020, I contributed to the development of the Loopcloud desktop app and its companion audio plugin 
+(which syncs the app to the user's DAW for a more integrated experience).
+
+I delivered several new major features (such as <em>collections</em>, MIDI support and an onboarding interactive tutorial), 
+and an extensive UI rework, in addition to countless bug fixes and workflow improvements.
+
+<br><br><br><br>
 
 ## 💻 Compilers & formal methods
 
