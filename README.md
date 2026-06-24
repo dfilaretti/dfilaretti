@@ -182,7 +182,7 @@ Check out the [README](https://github.com/dfilaretti/img2ascii_rust)!
 
 </details>
 
-# 🧪 Academic Research & publications
+# 🧪 Research & publications
 
 I hold a PhD in <em>Computing</em> from [Imperial College London](https://www.imperial.ac.uk/), where I worked in the field
 of <em>programming language</em> theory and <em>formal methods</em>. 
