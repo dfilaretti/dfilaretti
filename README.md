@@ -192,6 +192,10 @@ and the development of a static analysis tool derived from the formal semamtics 
 
 Here are the main research projects and publications I worked on during the years. 
 
+<details>
+
+<summary> 🔬 Research Projects </summary>
+
 ## Research Projects
 
 ### K-PHP (Executable formal semantics of PHP)
@@ -222,6 +226,13 @@ been proved correct with respect to JSCert and tested with the Test 262 test sui
 * [repo](https://github.com/jscert/jscert)
 * [paper](assets/publications/popl14.pdf)
 
+ 
+</details>
+
+<details>
+
+<summary> 📄 Publications </summary>
+
 ## Publications 
 
 ### 2019
@@ -245,3 +256,7 @@ been proved correct with respect to JSCert and tested with the Test 262 test sui
 ### 2011
 
 * [Building bricks with bricks, with Mathematica](assets/publications/mathematica11.pdf) - with P. Codara, O. D'Antona - Mathematica Italian User Group Meeting 2011.
+ 
+</details>
+
+
