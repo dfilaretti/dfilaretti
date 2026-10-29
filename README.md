@@ -17,3 +17,5 @@ I'm also an electronic music producer, which occasionally leads to music-related
 ### Elsewhere
 
 For more about me, my writing, and other projects, visit my [personal website](https://dfilaretti.github.io/).
+You can also check out my [LinkedIn profile](https://www.linkedin.com/in/danfilaretti/) or download my [CV](assets/Daniele-Filaretti-CV-2026.pdf
+).
